@@ -1,6 +1,6 @@
 # Clean Code Summary
 
-*Based on "Clean Code" by Robert C. Martin. All rights reserved by the original author.*
+*Based on "Clean Code" by Robert C. Martin.*
 
 
 
